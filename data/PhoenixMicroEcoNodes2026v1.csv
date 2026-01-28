@@ -1,0 +1,6 @@
+nodeid,medium,region,latitude,longitude,parameter,cin,cout,unit,qavg,qunit,horizon_s,ecoimpactscore,karma_per_unit,notes
+PHX-PARK-BIOSWALE-01,water,Central-AZ,33.4620,-112.0730,TP,0.18,0.09,mg/L,0.002,m3/s,31536000,0.84,2.0e5,"Small parking-lot bioswale capturing ~50% of TP load over one year."
+PHX-LIB-AIR-01,air,Central-AZ,33.4490,-112.0735,CO2,900,700,ppm,25000.0,m3/h,31536000,0.81,1.5e5,"Library air system reducing indoor CO2 by ~200 ppm during occupied hours."
+PHX-HH-FOODWASTE-01,solid,Central-AZ,33.4800,-112.0700,CO2e,1.20,0.80,kg/day,0.0000,kg/s,31536000,0.79,1.0e5,"Single household reducing avoidable food waste by ~0.4 kg CO2e per day via planning."
+PHX-CANAL-TRASH-01,solid,Central-AZ,33.5050,-112.0800,plastics,3.0,1.0,kg/day,0.020,m3/s,31536000,0.86,3.0e5,"Monthly volunteer canal cleanups removing ~2 kg/day plastic equivalent over a year."
+PHX-SHADE-NODE-01,land,Central-AZ,33.4700,-112.0670,heat-index,41.0,39.5,degC,0.0000,unitless,31536000,0.83,2.5e5,"Street trees and shade structures lowering peak surface temperature by ~1.5 °C."
