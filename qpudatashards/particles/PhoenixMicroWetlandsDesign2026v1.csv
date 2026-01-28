@@ -1,2 +1,3 @@
 nodeid,region,latitude,longitude,cin_mgL,cout_mgL,q_m3s,horizon_s,cref_mgL,karma_per_unit,maxPondDepth_m,sideSlopeHtoV
-PHX-PARK-BIOSWALE-01,Central-AZ,33.4620,-112.0730,0.18,0.09,0.002,31536000,0.10,2.0e5,0.30,3.0
+PHX-PARK-BIOSWALE-01,Central-AZ,33.4620,-112.0730,0.18,0.09,0.002,31536000,0.10,200000,0.30,3.0
+PHX-PARK-BIOSWALE-02,Central-AZ,33.4705,-112.0705,0.22,0.11,0.0015,31536000,0.10,200000,0.35,3.5
